@@ -1,0 +1,32 @@
+.overflow{
+    color: #008b8b;
+    font-size: 40px;
+
+}
+
+
+
+
+.theoverflow{
+    background-color: #008b8b ;
+    width: 300px;
+    height: 100px;
+    border: 5px solid;
+    overflow: scroll;
+    text-align: center;
+    
+}
+
+
+
+
+
+
+
+.homelink{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    font-style: italic;
+    text-align: center;
+
+}
